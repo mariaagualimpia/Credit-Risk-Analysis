@@ -1,4 +1,4 @@
-# Credit-Risk-Analysis
+# Credit Risk Analysis
 
 # Credit Risk Analysis Dashboard – Default of Credit Card Clients
 
