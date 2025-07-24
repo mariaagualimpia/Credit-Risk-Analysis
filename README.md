@@ -66,16 +66,8 @@ The resulting dashboard and report offer insights into payment behavior, credit 
 | File | Description |
 |------|-------------|
 | `/Dashboards/Credit Risk Visualization Dashboard.pbix` | Power BI report file |
-| `/Images/` | Screenshots of visuals (optional for README or web use) |
+| `/Images/Dashboard_overview.png` | Screenshots of visuals |
 | `/Reports/Credit Risk Visualization Report.pdf` | Summary report explaining key insights |
-
----
-
-## Dashboard Preview
-
-*(Optional: Add screenshots or a link to your published dashboard if you host it on Power BI Service)*
-
-![Preview](images/credit_risk_dashboard.png)
 
 ---
 
