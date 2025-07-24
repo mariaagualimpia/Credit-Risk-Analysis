@@ -45,14 +45,14 @@ The resulting dashboard and report offer insights into payment behavior, credit 
 
 ### 2. Clients by Education Level
 - Level 2 (likely mid-education) was the largest group and had a 24% default rate.
-- Levels 4 and 5 had the lowest default rates (~6%), while Level 6 and above showed higher risk again.
+- Levels 4 and 5 had the lowest default rates (6%), while Level 6 and above showed higher risk again.
 
 ### 3. Clients by Gender
 - Females had a lower default rate (20.78%) compared to males (24.17%).
 - Gender-based financial behavior and risk tolerance may contribute to the difference.
 
 ### 4. Credit Limits Behavior
-- Non-defaulters had a significantly higher average credit limit (~$178K vs $130K).
+- Non-defaulters had a significantly higher average credit limit ($178K vs $130K).
 - This may reflect creditworthiness scoring based on past repayment behavior.
 
 ### 5. Monthly Payment Behavior
@@ -61,7 +61,7 @@ The resulting dashboard and report offer insights into payment behavior, credit 
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -72,7 +72,7 @@ The resulting dashboard and report offer insights into payment behavior, credit 
 
 ---
 
-## 🔗 Dashboard Preview
+## Dashboard Preview
 
 *(Optional: Add screenshots or a link to your published dashboard if you host it on Power BI Service)*
 
@@ -80,7 +80,7 @@ The resulting dashboard and report offer insights into payment behavior, credit 
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Clone this repository.
 2. Open the `.pbix` file in Power BI Desktop.
@@ -89,8 +89,8 @@ The resulting dashboard and report offer insights into payment behavior, credit 
 
 ---
 
-## 📬 Contact
+## Contact
 
-👤 Maria Agualimpia  
-📧 mariaagualimpia24@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/maria-agualimpia-11a535129/)
+Name: Maria Agualimpia  
+Email Address: mariaagualimpia24@gmail.com  
+LinkedIn: (https://www.linkedin.com/in/maria-agualimpia-11a535129/)
