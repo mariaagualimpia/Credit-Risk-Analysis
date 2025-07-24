@@ -76,7 +76,7 @@ The resulting dashboard and report offer insights into payment behavior, credit 
 1. Clone this repository.
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore insights interactively using filters and slicers.
-4. (Optional) Read the full stakeholder report in `/reports/`.
+4. Read the full report in `/reports/`.
 
 ---
 
